@@ -34,3 +34,6 @@ Button{
   width: 100%; 
   height: auto; 
 }
+.image-container{
+  margin-top: 50px;
+}
